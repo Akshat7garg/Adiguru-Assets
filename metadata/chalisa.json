@@ -1,0 +1,98 @@
+[
+    {
+        "title": "Maa Durga Chalisa",
+        "file": "maa-durga-chalisa.mp3",
+        "path": "chalisa/maa-durga-chalisa.mp3",
+        "duration": "8:09"
+    },
+    {
+        "title": "Maa Ganga Chalisa",
+        "file": "maa-ganga-chalisa.mp3",
+        "path": "chalisa/maa-ganga-chalisa.mp3",
+        "duration": "11:29"
+    },
+    {
+        "title": "Maa Kali Chalisa",
+        "file": "maa-kali-chalisa.mp3",
+        "path": "chalisa/maa-kali-chalisa.mp3",
+        "duration": "5:27"
+    },
+    {
+        "title": "Maa Lakshmi Chalisa",
+        "file": "maa-lakshmi-chalisa.mp3",
+        "path": "chalisa/maa-lakshmi-chalisa.mp3",
+        "duration": "7:28"
+    },
+    {
+        "title": "Maa Radha Chalisa",
+        "file": "maa-radha-chalisa.mp3",
+        "path": "chalisa/maa-radha-chalisa.mp3",
+        "duration": "4:49"
+    },
+    {
+        "title": "Maa Saraswati Chalisa",
+        "file": "maa-saraswati-chalisa.mp3",
+        "path": "chalisa/maa-saraswati-chalisa.mp3",
+        "duration": "12:49"
+    },
+    {
+        "title": "Maa Tulsi Chalisa",
+        "file": "maa-tulsi-chalisa.mp3",
+        "path": "chalisa/maa-tulsi-chalisa.mp3",
+        "duration": "8:13"
+    },
+    {
+        "title": "Maa Vaishno Chalisa",
+        "file": "maa-vaishno-chalisa.mp3",
+        "path": "chalisa/maa-vaishno-chalisa.mp3",
+        "duration": "9:29"
+    },
+    {
+        "title": "Shree Brahma Chalisa",
+        "file": "shree-brahma-chalisa.mp3",
+        "path": "chalisa/shree-brahma-chalisa.mp3",
+        "duration": "12:02"
+    },
+    {
+        "title": "Shree Ganesh Chalisa",
+        "file": "shree-ganesh-chalisa.mp3",
+        "path": "chalisa/shree-ganesh-chalisa.mp3",
+        "duration": "9:09"
+    },
+    {
+        "title": "Shree Hanuman Chalisa",
+        "file": "shree-hanuman-chalisa.mp3",
+        "path": "chalisa/shree-hanuman-chalisa.mp3",
+        "duration": "4:18"
+    },
+    {
+        "title": "Shree Krishna Chalisa",
+        "file": "shree-krishna-chalisa.mp3",
+        "path": "chalisa/shree-krishna-chalisa.mp3",
+        "duration": "12:12"
+    },
+    {
+        "title": "Shree ram Chalisa",
+        "file": "shree-ram-chalisa.mp3",
+        "path": "chalisa/shree-ram-chalisa.mp3",
+        "duration": "4:36"
+    },
+    {
+        "title": "Shree Shani Chalisa",
+        "file": "shree-shani-chalisa.mp3",
+        "path": "chalisa/shree-shani-chalisa.mp3",
+        "duration": "5:46"
+    },
+    {
+        "title": "Shree Shiva Chalisa",
+        "file": "shree-shiva-chalisa.mp3",
+        "path": "chalisa/shree-shiva-chalisa.mp3",
+        "duration": "9:51"
+    },
+    {
+        "title": "Shree Vishnu Chalisa",
+        "file": "shree-vishnu-chalisa.mp3",
+        "path": "chalisa/shree-vishnu-chalisa.mp3",
+        "duration": "12:25"
+    }
+]

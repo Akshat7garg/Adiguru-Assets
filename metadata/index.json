@@ -1,0 +1,29 @@
+[
+    {
+        "category": "Aarti",
+        "id": "aarti",
+        "file": "aarti.json",
+        "path": "metadata/aarti.json",
+        "count": 16,
+        "folder": "aarti",
+        "description": "Short devotional songs sung to worship and thank the GOD."
+    },
+    {
+        "category": "Chalisa",
+        "id": "chalisa",
+        "file": "chalisa.json",
+        "path": "metadata/chalisa.json",
+        "count": 16,
+        "folder": "chalisa",
+        "description": "Verses with 40 lines to praise and remember the GOD."
+    },
+    {
+        "category": "Stotra",
+        "id": "stotra",
+        "file": "stotra.json",
+        "path": "metadata/stotra.json",
+        "count": 38,
+        "folder": "stotra",
+        "description": "Prayer verses written to honor and describe the GOD."
+    }
+]
