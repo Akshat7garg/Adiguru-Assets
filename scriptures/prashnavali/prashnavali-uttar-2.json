@@ -1,0 +1,26 @@
+{
+    "status": true,
+    "reponse": "Positive response",
+    "hindi": {
+        "heading": "भगवान का स्मरण करते हुए कार्य आरम्भ करो, सफलता मिलेगी।",
+        "chaupai": {
+            "title": "चौपाई",
+            "content": "प्रबिसि नगर कीजे सब काजा। हृदयँ राखि कौसलपुर राजा॥"
+        },
+        "meaning": {
+            "title": "अर्थ",
+            "content": "अयोध्यापुरी के राजा श्री रघुनाथजी को हृदय में रखे हुए नगर में प्रवेश करके सब काम कीजिए। उसके लिए विष अमृत हो जाता है, शत्रु मित्रता करने लगते हैं, समुद्र गाय के खुर के बराबर हो जाता है, अग्नि में शीतलता आ जाती है।"
+        }
+    },
+    "english": {
+        "heading": "Start the work by remembering God, you will get success.",
+        "chaupai": {
+            "title": "Verse",
+            "content": "Prabisi Nagar Keeje Sab Kaaja. Hrdayan Raakhi Kausalapur Raaja."
+        },
+        "meaning": {
+            "title": "Meaning",
+            "content": "Do all the work after entering the city, keeping the king of Ayodhyapuri Shri Raghunathji in your heart. For him, poison becomes nectar, enemies become friends, the ocean becomes equal to a cow's hoof, and fire becomes cool."
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "status": false,
+    "reponse": "Negative response",
+    "hindi": {
+        "heading": "कार्य पूर्ण होने में संदेह है, अत: उसे भगवान पर छोड़ देना श्रेयस्कर है।",
+        "chaupai": {
+            "title": "चौपाई",
+            "content": "होइ हि सोई जो राम रचि राखा। को करि तर्क बढ़ावै साखा॥"
+        },
+        "meaning": {
+            "title": "अर्थ",
+            "content": "जो कुछ राम ने रच रखा है, वही होगा। तर्क करके कौन शाखा (विस्तार) बढ़ावे। (मन में) ऐसा कहकर शिव भगवान हरि का नाम जपने लगे और सती वहाँ गईं जहाँ सुख के धाम प्रभु राम थे।"
+        }
+    },
+    "english": {
+        "heading": "There is doubt in the completion of work, so it is best to leave it to God.",
+        "chaupai": {
+            "title": "Verse",
+            "content": "Hoi Hi Soee Jo Raam Rachi Raakha. Ko Kari Tark Badhaavai Saakha."
+        },
+        "meaning": {
+            "title": "Meaning",
+            "content": "Whatever Ram has created, that will happen. Who will increase the branch (expansion) by reasoning? Saying this (in mind), Shiva started chanting the name of Lord Hari, and Sati went to the place where Lord Ram was the abode of happiness."
+        }
+    }
+} 

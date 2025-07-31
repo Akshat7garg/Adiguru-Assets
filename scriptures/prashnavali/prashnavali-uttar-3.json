@@ -1,0 +1,26 @@
+{
+    "status": false,
+    "reponse": "Negative response",
+    "hindi": {
+        "heading": "इस कार्य में भलाई नहीं है। कार्य की सफलता में संदेह है।",
+        "chaupai": {
+            "title": "चौपाई",
+            "content": "उघरहिं अंत न होइ निबाहू। कालनेमि जिमि रावन राहू॥"
+        },
+        "meaning": {
+            "title": "अर्थ",
+            "content": "बहुरूपिए भी यदि साधु का वेष बना लें तो संसार उनके वेष के प्रभाव से उनकी वंदना करता है, परन्तु एक न एक दिन उनकी प्रकृति सामने आ ही जाती है। उनका कपट सदा के लिए छिप सकता जैसे कालनेमि, रावण और राहु का सत्य सामने आ ही गया।"
+        }
+    },
+    "english": {
+        "heading": "There is no goodness in this work. There is doubt in the success of the work.",
+        "chaupai": {
+            "title": "Verse",
+            "content": "Ugharahin Ant Na Hoi Nibaahoo. Kaalanemi Jimi Raavan Raahoo."
+        },
+        "meaning": {
+            "title": "Meaning",
+            "content": "Even if the impersonators disguise themselves as saints, the world worships them due to the influence of their disguise, but one day or the other, their nature comes to the fore. Their deceit could have remained hidden forever just as the truth about Kalnemi, Ravana, and Rahu came to light."
+        }
+    }
+}

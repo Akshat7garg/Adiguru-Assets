@@ -1,0 +1,26 @@
+{
+    "status": false,
+    "reponse": "Negative response",
+    "hindi": {
+        "heading": "खोटे मनुष्यों का संग छोड़ दो। कार्य पूर्ण होने में संदेह है।",
+        "chaupai": {
+            "title": "चौपाई",
+            "content": "बिधि बस सुजन कुसंगत परही। फनि मनि सम निज गुन अनुसरहीं॥"
+        },
+        "meaning": {
+            "title": "अर्थ",
+            "content": "दुष्ट भी सत्संगति पाकर सुधर जाते हैं, जैसे पारस के स्पर्श से लोहा सुहावना हो जाता है (सुंदर सोना बन जाता है), किन्तु दैवयोग से यदि कभी सज्जन कुसंगति में पड़ जाते हैं, तो वे वहाँ भी साँप की मणि के समान अपने गुणों का ही अनुसरण करते हैं। (अर्थात्‌ जिस प्रकार साँप का संसर्ग पाकर भी मणि उसके विष को ग्रहण नहीं करती तथा अपने सहज गुण प्रकाश को नहीं छोड़ती, उसी प्रकार साधु पुरुष दुष्टों के संग में रहकर भी दूसरों को प्रकाश ही देते हैं, दुष्टों का उन पर कोई प्रभाव नहीं पड़ता।)॥"
+        }
+    },
+    "english": {
+        "heading": "Leave the company of bad people. There is doubt in completion of this work.",
+        "chaupai": {
+            "title": "Verse",
+            "content": "Bidhi Bas Sujan Kusangat Paraheen. Phani Mani Sam Nij Gun Anusaraheen."
+        },
+        "meaning": {
+            "title": "Meaning",
+            "content": "Even the wicked get reformed after getting good company, like iron becomes beautiful by the touch of Paras (beautiful becomes gold), but if, due to chance, the good people fall into bad company, they also lose their qualities like a snake's gem. Only follow. (That is, just as a gem does not take its poison even after coming in contact with a snake and does not give up its innate quality of light, in the same way, a saintly person gives light to others even while being in the company of the wicked, the wicked do not affect them."
+        }
+    }
+}

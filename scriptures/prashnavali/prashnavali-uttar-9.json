@@ -1,0 +1,26 @@
+{
+    "status": true,
+    "reponse": "Positive response",
+    "hindi": {
+        "heading": "प्रश्न बहुत उत्तम है। कार्य सिद्ध होगा।",
+        "chaupai": {
+            "title": "चौपाई",
+            "content": "सुफल मनोरथ होहूँ तुम्हारे। रामु लखनु सुनि भए सुखारे॥"
+        },
+        "meaning": {
+            "title": "अर्थ",
+            "content": "फूल पाकर मुनि ने पूजा की। फिर दोनों भाइयों को आशीर्वाद दिया कि तुम्हारे मनोरथ सफल हों। यह सुनकर राम-लक्ष्मण सुखी हुए।"
+        }
+    },
+    "english": {
+        "heading": "The question is very good. Work will be successful.",
+        "chaupai": {
+            "title": "Verse",
+            "content": "Suphal Manorath Hohun Tumhaare, Ramu Lakhanu Suni Bhae Sukhare."
+        },
+        "meaning": {
+            "title": "Meaning",
+            "content": "Muni worshiped after getting the flower. Then, he blessed both the brothers that their wishes may be successful. Ram-Laxman was happy to hear this."
+        }
+    }
+}
