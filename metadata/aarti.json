@@ -1,98 +1,66 @@
 [
     {
         "title": "Maa Amba Aarti",
-        "file": "maa-amba-aarti.mp3",
-        "path": "aarti/maa-amba-aarti.mp3",
-        "duration": "7:53"
+        "path": "/aarti/maa-amba-aarti"
     },
     {
         "title": "Maa Durga Aarti",
-        "file": "maa-durga-aarti.mp3",
-        "path": "aarti/maa-durga-aarti.mp3",
-        "duration": "6:00"
+        "path": "/aarti/maa-durga-aarti"
     },
     {
         "title": "Maa Ganga Aarti",
-        "file": "maa-ganga-aarti.mp3",
-        "path": "aarti/maa-ganga-aarti.mp3",
-        "duration": "3:47"
+        "path": "/aarti/maa-ganga-aarti"
     },
     {
         "title": "Maa Lakshmi Aarti",
-        "file": "maa-lakshmi-aarti.mp3",
-        "path": "aarti/maa-lakshmi-aarti.mp3",
-        "duration": "9:46"
+        "path": "/aarti/maa-lakshmi-aarti"
     },
     {
         "title": "Maa Saraswati Aarti",
-        "file": "maa-saraswati-aarti.mp3",
-        "path": "aarti/maa-saraswati-aarti.mp3",
-        "duration": "4:59"
+        "path": "/aarti/maa-saraswati-aarti"
     },
     {
         "title": "Maa Sita Aarti",
-        "file": "maa-sita-aarti.mp3",
-        "path": "aarti/maa-sita-aarti.mp3",
-        "duration": "2:13"
+        "path": "/aarti/maa-sita-aarti"
     },
     {
         "title": "Maa Tulsi Aarti",
-        "file": "maa-tulsi-aarti.mp3",
-        "path": "aarti/maa-tulsi-aarti.mp3",
-        "duration": "3:32"
+        "path": "/aarti/maa-tulsi-aarti"
     },
     {
         "title": "Maa Vaishno Aarti",
-        "file": "maa-vaishno-aarti.mp3",
-        "path": "aarti/maa-vaishno-aarti.mp3",
-        "duration": "7:02"
+        "path": "/aarti/maa-vaishno-aarti"
     },
     {
         "title": "Shree Brahma Aarti",
-        "file": "shree-brahma-aarti.mp3",
-        "path": "aarti/shree-brahma-aarti.mp3",
-        "duration": "8:38"
+        "path": "/aarti/shree-brahma-aarti"
     },
     {
         "title": "Shree Ganesh Aarti",
-        "file": "shree-ganesh-aarti.mp3",
-        "path": "aarti/shree-ganesh-aarti.mp3",
-        "duration": "2:37"
+        "path": "/aarti/shree-ganesh-aarti"
     },
     {
         "title": "Shree Hanuman Aarti",
-        "file": "shree-hanuman-aarti.mp3",
-        "path": "aarti/shree-hanuman-aarti.mp3",
-        "duration": "3:23"
+        "path": "/aarti/shree-hanuman-aarti"
     },
     {
         "title": "Shree Jagdish Aarti",
-        "file": "shree-jagdish-aarti.mp3",
-        "path": "aarti/shree-jagdish-aarti.mp3",
-        "duration": "5:31"
+        "path": "/aarti/shree-jagdish-aarti"
     },
     {
         "title": "Shree Kunj Bihari Aarti",
-        "file": "shree-kunj-bihari-aarti.mp3",
-        "path": "aarti/shree-kunj-bihari-aarti.mp3",
-        "duration": "4:35"
+        "path": "/aarti/shree-kunj-bihari-aarti"
     },
     {
         "title": "Shree Satyanarayan Aarti",
-        "file": "shree-satyanarayan-aarti.mp3",
-        "path": "aarti/shree-satyanarayan-aarti.mp3",
-        "duration": "5:38"
+        "path": "/aarti/shree-satyanarayan-aarti"
     },
     {
         "title": "Shree Shani Aarti",
-        "file": "shree-shani-aarti.mp3",
-        "path": "aarti/shree-shani-aarti.mp3",
-        "duration": "4:03"
+        "path": "/aarti/shree-shani-aarti"
     },
     {
         "title": "Shree Shiva Aarti",
-        "file": "shree-shiva-aarti.mp3",
-        "path": "aarti/shree-shiva-aarti.mp3",
-        "duration": "5:28"
+        "path": "/aarti/shree-shiva-aarti"
     }
 ]
