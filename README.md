@@ -1,17 +1,20 @@
-# 🕉️ Adiguru Audible
+# 🕉️ Adiguru Assets
 
-**Adiguru Audible** is a static audio repository containing devotional content for the [Adiguru](https://your-adiguru-site-link.com) platform. It includes high-quality audio files and metadata for Aartis, Chalisas, and Stotras, meant for easy access and integration into the web and mobile apps.
+**Adiguru Assets** is a static content repository for the [Adiguru](https://your-adiguru-site-link.com) platform. It includes high-quality devotional audio files, JSON scriptures, and images for seamless integration with web and mobile applications.
 
 ---
 
 ## 📦 Contents
 
-| Category  | Total Files | Description |
-|-----------|-------------|-------------|
-| 🪔 Aarti   | 16          | Short devotional songs sung during worship to offer light and reverence to the deity. |
-| 📜 Chalisa | 16          | Forty-verse hymns that praise and seek blessings from various deities. |
-| 🕉️ Stotra | 38          | Sanskrit verses and prayers that glorify divine forms and guide inner reflection. |
-| 📁 Metadata | ✓ | JSON files that describe and organize the content by category, enabling dynamic rendering in the app. |
+| Category         | Folder              | Description |
+|------------------|---------------------|-------------|
+| 🪔 Aarti          | `aarti/`            | Short devotional songs sung during worship to offer light and reverence to the deity. |
+| 📜 Chalisa        | `chalisa/`          | Forty-verse hymns that praise and seek blessings from various deities. |
+| 🕉️ Stotra         | `stotra/`           | Sanskrit verses and prayers that glorify divine forms and guide inner reflection. |
+| 📖 Gita           | `scriptures/gita/`  | The ultimate guidance from Lord Krishna to every human being on how to live, act, and attain liberation. |
+| 🧭 Prashnavali    | `scriptures/prashnavali/` | A divine medium to ask GOD whether your action or decision is right or not. |
+| 🖼️ Images         | `images/`           | Web-optimized images used across the Adiguru platform. |
+| 📁 Metadata       | `metadata/`         | JSON files that describe and organize the content by category, enabling dynamic rendering in the app. |
 
 ---
 
@@ -22,20 +25,27 @@ adiguru-audible/
 ├── aarti/             # All Aarti audio files (.mp3)
 ├── chalisa/           # All Chalisa audio files (.mp3)
 ├── stotra/            # All Stotra audio files (.mp3)
-└── metadata/          # Metadata JSON files
-    ├── index.json
+├── scriptures/            
+    ├── aarti/                # Aarti text data (JSON)
+    ├── chalisa/              # Chalisa text data (JSON)
+    ├── gita/                 # Gita chapters and verses (JSON)
+    ├── prashnavali/          # Prashnavali responses (JSON)
+├── metadata/          # Master data to organize and render content
+    ├── gita/                  # Metadata for each adhyay Bhagavad Gita
     ├── aarti.json
     ├── chalisa.json
+    ├── prashnavali.json
     └── stotra.json
+└── index.json         # Master index for all content categories
 ```
 
 ---
 
 ## 🧠 Usage
 
-- Audio and metadata are consumed by the Adiguru frontend.
-- All files are static and served via direct links or CDN.
-- Metadata enables dynamic rendering of audio content on the client side.
+- Audio, text, and images are consumed by the Adiguru frontend using jsDelivr CDN.
+- Content is modular and dynamically rendered using metadata JSON files.
+- Scripture data can be parsed for display, audio syncing, and spiritual guidance.
 
 ---
 
