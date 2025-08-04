@@ -1,0 +1,49 @@
+[
+    {
+        "category": "Aarti",
+        "id": "aarti",
+        "file": "aarti.json",
+        "path": "metadata/aarti.json",
+        "count": 16,
+        "audios-folder": "aarti",
+        "scriptures-folder": "scriptures/aarti",
+        "description": "Short devotional songs sung to worship and thank the GOD."
+    },
+    {
+        "category": "Chalisa",
+        "id": "chalisa",
+        "file": "chalisa.json",
+        "path": "metadata/chalisa.json",
+        "count": 16,
+        "audios-folder": "chalisa",
+        "scriptures-folder": "scriptures/chalisa",
+        "description": "Verses with 40 lines to praise and remember the GOD."
+    },
+    {
+        "category": "Stotra",
+        "id": "stotra",
+        "file": "stotra.json",
+        "path": "metadata/stotra.json",
+        "count": 40,
+        "audios-folder": "stotra",
+        "description": "Prayer verses written to honor and describe the GOD."
+    },
+    {
+        "category": "Gita",
+        "id": "gita",
+        "file": "adhyay-[1...18].json",
+        "path": "metadata/gita/adhyay-[1...18].json",
+        "count": 18,
+        "scriptures-folder": "scriptures/gita",
+        "description": "The ultimate guidance from Lord Krishna to every human being on how to live, act, and also the core of spiritual wisdom."
+    },
+    {
+        "category": "Prashnavali",
+        "id": "prashnavali",
+        "file": "prashnavali.json",
+        "path": "metadata/prashnavali.json",
+        "count": 9,
+        "scriptures-folder": "scriptures/prashnavali",
+        "description": "A divine medium to ask GOD whether your action or decision is right or not."
+    }
+]
