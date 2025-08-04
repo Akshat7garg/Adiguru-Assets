@@ -1,0 +1,21 @@
+{
+    "status": true,
+    "chaupai": {
+        "title": "चौपाई",
+        "content": "गरल सुधा रिपु करहिं मिताई। गोपद सिंधु अनल सितलाई॥"
+    },
+    "hindi": {
+        "heading": "प्रश्न बहुत श्रेष्ठ है। कार्य सफल होगा।",
+        "meaning": {
+            "title": "अर्थ",
+            "content": "जो प्रभु श्री राम को ह्रदय में धारण करते हैं, उसके लिए विष अमृत हो जाता है, शत्रु मित्रता करने लगते हैं, समुद्र गाय के खुर के बराबर हो जाता है, अग्नि में शीतलता आ जाती है।"
+        }
+    },
+    "english": {
+        "heading": "The question is very good. Work will be successful.",
+        "meaning": {
+            "title": "Meaning",
+            "content": "One who holds Lord Shri Ram in his heart, for him poison becomes nectar, enemies become friends, the ocean becomes equal to the hoof of a cow, the fire becomes cool."
+        }
+    }
+}

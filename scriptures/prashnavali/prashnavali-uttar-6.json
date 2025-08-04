@@ -1,0 +1,21 @@
+{
+    "status": true,
+    "chaupai": {
+        "title": "चौपाई",
+        "content": "मुद मंगलमय संत समाजू। जो जग जंगम तीरथराजू॥"
+    },
+    "hindi": {
+        "heading": "प्रश्न उत्तम है। कार्य सिद्ध होगा।",
+        "meaning": {
+            "title": "अर्थ",
+            "content": "संतों का समाज आनंद और कल्याणमय है, जो जगत में चलता-फिरता तीर्थराज (प्रयाग) है। जहां (उस संत समाज रूपी प्रयागराज में) राम भक्ति रूपी गंगाजी की धारा है और ब्रह्मविचार का प्रचार सरस्वतीजी हैं॥"
+        }
+    },
+    "english": {
+        "heading": "The question is good. Work will be successful.",
+        "meaning": {
+            "title": "Meaning",
+            "content": "The society of saints is blissful and welfare, which is the Tirtharaj (Prayag) walking in the world. Where (in Prayagraj in the form of a saintly society) there is a stream of Gangaji in the form of Ram's devotion, and Saraswatiji is the propagator of Brahma thought."
+        }
+    }
+}

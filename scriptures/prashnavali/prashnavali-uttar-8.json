@@ -1,0 +1,21 @@
+{
+    "status": false,
+    "chaupai": {
+        "title": "चौपाई",
+        "content": "बरुन कुबेर सुरेस समीरा। रन सन्मुख धरि काहूँ न धीरा॥"
+    },
+    "hindi": {
+        "heading": "कार्य पूर्ण होने में संदेह है।",
+        "meaning": {
+            "title": "अर्थ",
+            "content": "वरुण, कुबेर, इंद्र और वायु, इनमें से किसी ने भी रण में तुम्हारे सामने धैर्य धारण नहीं किया (अर्थात सामना न कर सके )।"
+        }
+    },
+    "english": {
+        "heading": "There is doubt in sucess of the work.",
+        "meaning": {
+            "title": "Meaning",
+            "content": "Even powerful gods like Varun, Kuber, Indra, and Vayu were no match for you in battle."
+        }
+    }
+}

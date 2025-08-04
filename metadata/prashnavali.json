@@ -1,0 +1,902 @@
+[
+    {
+        "title": "सु",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-1.json"
+    },
+    {
+        "title": "प्र",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-2.json"
+    },
+    {
+        "title": "उ",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-3.json"
+    },
+    {
+        "title": "बि",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-4.json"
+    },
+    {
+        "title": "हो",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-5.json"
+    },
+    {
+        "title": "मु",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-6.json"
+    },
+    {
+        "title": "ग",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-7.json"
+    },
+    {
+        "title": "ब",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-8.json"
+    },
+    {
+        "title": "सु",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-9.json"
+    },
+    {
+        "title": "नु",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-1.json"
+    },
+    {
+        "title": "बि",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-2.json"
+    },
+    {
+        "title": "घ",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-3.json"
+    },
+    {
+        "title": "धि",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-4.json"
+    },
+    {
+        "title": "इ",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-5.json"
+    },
+    {
+        "title": "द",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-6.json"
+    },
+    {
+        "title": "र",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-7.json"
+    },
+    {
+        "title": "रु",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-8.json"
+    },
+    {
+        "title": "फ",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-9.json"
+    },
+    {
+        "title": "सि",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-1.json"
+    },
+    {
+        "title": "सि",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-2.json"
+    },
+    {
+        "title": "रहिं",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-3.json"
+    },
+    {
+        "title": "बस",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-4.json"
+    },
+    {
+        "title": "हि",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-5.json"
+    },
+    {
+        "title": "मं",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-6.json"
+    },
+    {
+        "title": "ल",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-7.json"
+    },
+    {
+        "title": "न",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-8.json"
+    },
+    {
+        "title": "ल",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-9.json"
+    },
+    {
+        "title": "य",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-1.json"
+    },
+    {
+        "title": "न",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-2.json"
+    },
+    {
+        "title": "अं",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-3.json"
+    },
+    {
+        "title": "सुज",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-4.json"
+    },
+    {
+        "title": "सो",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-5.json"
+    },
+    {
+        "title": "ग",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-6.json"
+    },
+    {
+        "title": "सु",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-7.json"
+    },
+    {
+        "title": "कु",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-8.json"
+    },
+    {
+        "title": "म",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-9.json"
+    },
+    {
+        "title": "स",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-1.json"
+    },
+    {
+        "title": "ग",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-2.json"
+    },
+    {
+        "title": "त",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-3.json"
+    },
+    {
+        "title": "न",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-4.json"
+    },
+    {
+        "title": "इ",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-5.json"
+    },
+    {
+        "title": "ल",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-6.json"
+    },
+    {
+        "title": "धा",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-7.json"
+    },
+    {
+        "title": "बे",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-8.json"
+    },
+    {
+        "title": "नो",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-9.json"
+    },
+    {
+        "title": "त्य",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-1.json"
+    },
+    {
+        "title": "र",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-2.json"
+    },
+    {
+        "title": "न",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-3.json"
+    },
+    {
+        "title": "कु",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-4.json"
+    },
+    {
+        "title": "जो",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-5.json"
+    },
+    {
+        "title": "म",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-6.json"
+    },
+    {
+        "title": "रि",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-7.json"
+    },
+    {
+        "title": "र",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-8.json"
+    },
+    {
+        "title": "र",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-9.json"
+    },
+    {
+        "title": "अ",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-1.json"
+    },
+    {
+        "title": "की",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-2.json"
+    },
+    {
+        "title": "हो",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-3.json"
+    },
+    {
+        "title": "सं",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-4.json"
+    },
+    {
+        "title": "रा",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-5.json"
+    },
+    {
+        "title": "य",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-6.json"
+    },
+    {
+        "title": "पु",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-7.json"
+    },
+    {
+        "title": "सु",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-8.json"
+    },
+    {
+        "title": "थ",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-9.json"
+    },
+    {
+        "title": "सी",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-1.json"
+    },
+    {
+        "title": "जे",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-2.json"
+    },
+    {
+        "title": "इ",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-3.json"
+    },
+    {
+        "title": "ग",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-4.json"
+    },
+    {
+        "title": "म",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-5.json"
+    },
+    {
+        "title": "सं",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-6.json"
+    },
+    {
+        "title": "क",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-7.json"
+    },
+    {
+        "title": "रे",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-8.json"
+    },
+    {
+        "title": "हो",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-9.json"
+    },
+    {
+        "title": "स",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-1.json"
+    },
+    {
+        "title": "स",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-2.json"
+    },
+    {
+        "title": "नि",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-3.json"
+    },
+    {
+        "title": "त",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-4.json"
+    },
+    {
+        "title": "र",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-5.json"
+    },
+    {
+        "title": "त",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-6.json"
+    },
+    {
+        "title": "र",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-7.json"
+    },
+    {
+        "title": "स",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-8.json"
+    },
+    {
+        "title": "हुँ",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-9.json"
+    },
+    {
+        "title": "ह",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-1.json"
+    },
+    {
+        "title": "ब",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-2.json"
+    },
+    {
+        "title": "ब",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-3.json"
+    },
+    {
+        "title": "प",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-4.json"
+    },
+    {
+        "title": "चि",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-5.json"
+    },
+    {
+        "title": "स",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-6.json"
+    },
+    {
+        "title": "हिं",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-7.json"
+    },
+    {
+        "title": "स",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-8.json"
+    },
+    {
+        "title": "तु",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-9.json"
+    },
+    {
+        "title": "म",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-1.json"
+    },
+    {
+        "title": "का",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-2.json"
+    },
+    {
+        "title": "ा",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-3.json"
+    },
+    {
+        "title": "र",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-4.json"
+    },
+    {
+        "title": "र",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-5.json"
+    },
+    {
+        "title": "म",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-6.json"
+    },
+    {
+        "title": "मि",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-7.json"
+    },
+    {
+        "title": "मी",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-8.json"
+    },
+    {
+        "title": "म्हा",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-9.json"
+    },
+    {
+        "title": "ा",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-1.json"
+    },
+    {
+        "title": "जा",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-2.json"
+    },
+    {
+        "title": "हू",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-3.json"
+    },
+    {
+        "title": "हीं",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-4.json"
+    },
+    {
+        "title": "ा",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-5.json"
+    },
+    {
+        "title": "ा",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-6.json"
+    },
+    {
+        "title": "ता",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-7.json"
+    },
+    {
+        "title": "रा",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-8.json"
+    },
+    {
+        "title": "रे",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-9.json"
+    },
+    {
+        "title": "री",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-1.json"
+    },
+    {
+        "title": "हृ",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-2.json"
+    },
+    {
+        "title": "का",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-3.json"
+    },
+    {
+        "title": "फ",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-4.json"
+    },
+    {
+        "title": "खा",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-5.json"
+    },
+    {
+        "title": "जू",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-6.json"
+    },
+    {
+        "title": "ई",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-7.json"
+    },
+    {
+        "title": "र",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-8.json"
+    },
+    {
+        "title": "रा",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-9.json"
+    },
+    {
+        "title": "पू",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-1.json"
+    },
+    {
+        "title": "द",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-2.json"
+    },
+    {
+        "title": "ल",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-3.json"
+    },
+    {
+        "title": "नि",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-4.json"
+    },
+    {
+        "title": "को",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-5.json"
+    },
+    {
+        "title": "जो",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-6.json"
+    },
+    {
+        "title": "गो",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-7.json"
+    },
+    {
+        "title": "न",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-8.json"
+    },
+    {
+        "title": "मु",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-9.json"
+    },
+    {
+        "title": "जि",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-1.json"
+    },
+    {
+        "title": "यँ",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-2.json"
+    },
+    {
+        "title": "ने",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-3.json"
+    },
+    {
+        "title": "मनि",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-4.json"
+    },
+    {
+        "title": "क",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-5.json"
+    },
+    {
+        "title": "ज",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-6.json"
+    },
+    {
+        "title": "प",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-7.json"
+    },
+    {
+        "title": "स",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-8.json"
+    },
+    {
+        "title": "ल",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-9.json"
+    },
+    {
+        "title": "हि",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-1.json"
+    },
+    {
+        "title": "रा",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-2.json"
+    },
+    {
+        "title": "मि",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-3.json"
+    },
+    {
+        "title": "स",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-4.json"
+    },
+    {
+        "title": "रि",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-5.json"
+    },
+    {
+        "title": "ग",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-6.json"
+    },
+    {
+        "title": "द",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-7.json"
+    },
+    {
+        "title": "न्मु",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-8.json"
+    },
+    {
+        "title": "ख",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-9.json"
+    },
+    {
+        "title": "म",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-1.json"
+    },
+    {
+        "title": "खि",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-2.json"
+    },
+    {
+        "title": "जि",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-3.json"
+    },
+    {
+        "title": "म",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-4.json"
+    },
+    {
+        "title": "त",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-5.json"
+    },
+    {
+        "title": "जं",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-6.json"
+    },
+    {
+        "title": "सिं",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-7.json"
+    },
+    {
+        "title": "ख",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-8.json"
+    },
+    {
+        "title": "नु",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-9.json"
+    },
+    {
+        "title": "न",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-1.json"
+    },
+    {
+        "title": "कौ",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-2.json"
+    },
+    {
+        "title": "मि",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-3.json"
+    },
+    {
+        "title": "निज",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-4.json"
+    },
+    {
+        "title": "र्क",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-5.json"
+    },
+    {
+        "title": "ग",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-6.json"
+    },
+    {
+        "title": "धु",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-7.json"
+    },
+    {
+        "title": "ध",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-8.json"
+    },
+    {
+        "title": "सु",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-9.json"
+    },
+    {
+        "title": "का",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-1.json"
+    },
+    {
+        "title": "स",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-2.json"
+    },
+    {
+        "title": "र",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-3.json"
+    },
+    {
+        "title": "गु",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-4.json"
+    },
+    {
+        "title": "ब",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-5.json"
+    },
+    {
+        "title": "म",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-6.json"
+    },
+    {
+        "title": "अ",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-7.json"
+    },
+    {
+        "title": "रि",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-8.json"
+    },
+    {
+        "title": "नि",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-9.json"
+    },
+    {
+        "title": "म",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-1.json"
+    },
+    {
+        "title": "ल",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-2.json"
+    },
+    {
+        "title": "ा",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-3.json"
+    },
+    {
+        "title": "न",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-4.json"
+    },
+    {
+        "title": "ढ़",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-5.json"
+    },
+    {
+        "title": "ती",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-6.json"
+    },
+    {
+        "title": "न",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-7.json"
+    },
+    {
+        "title": "क",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-8.json"
+    },
+    {
+        "title": "भ",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-9.json"
+    },
+    {
+        "title": "ना",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-1.json"
+    },
+    {
+        "title": "पु",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-2.json"
+    },
+    {
+        "title": "व",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-3.json"
+    },
+    {
+        "title": "अ",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-4.json"
+    },
+    {
+        "title": "ा",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-5.json"
+    },
+    {
+        "title": "र",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-6.json"
+    },
+    {
+        "title": "ल",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-7.json"
+    },
+    {
+        "title": "ा",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-8.json"
+    },
+    {
+        "title": "ए",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-9.json"
+    },
+    {
+        "title": "तु",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-1.json"
+    },
+    {
+        "title": "र",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-2.json"
+    },
+    {
+        "title": "न",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-3.json"
+    },
+    {
+        "title": "नु",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-4.json"
+    },
+    {
+        "title": "वै",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-5.json"
+    },
+    {
+        "title": "थ",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-6.json"
+    },
+    {
+        "title": "सि",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-7.json"
+    },
+    {
+        "title": "हूँ",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-8.json"
+    },
+    {
+        "title": "सु",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-9.json"
+    },
+    {
+        "title": "म्ह",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-1.json"
+    },
+    {
+        "title": "रा",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-2.json"
+    },
+    {
+        "title": "र",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-3.json"
+    },
+    {
+        "title": "स",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-4.json"
+    },
+    {
+        "title": "स",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-5.json"
+    },
+    {
+        "title": "र",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-6.json"
+    },
+    {
+        "title": "त",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-7.json"
+    },
+    {
+        "title": "न",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-8.json"
+    },
+    {
+        "title": "ख",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-9.json"
+    },
+    {
+        "title": "ा",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-1.json"
+    },
+    {
+        "title": "ज",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-2.json"
+    },
+    {
+        "title": "ा",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-3.json"
+    },
+    {
+        "title": "र",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-4.json"
+    },
+    {
+        "title": "ा",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-5.json"
+    },
+    {
+        "title": "ा",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-6.json"
+    },
+    {
+        "title": "ला",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-7.json"
+    },
+    {
+        "title": "धी",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-8.json"
+    },
+    {
+        "title": "ा",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-9.json"
+    },
+    {
+        "title": "री",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-1.json"
+    },
+    {
+        "title": "ा",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-2.json"
+    },
+    {
+        "title": "हू",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-3.json"
+    },
+    {
+        "title": "हीं",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-4.json"
+    },
+    {
+        "title": "खा",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-5.json"
+    },
+    {
+        "title": "जू",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-6.json"
+    },
+    {
+        "title": "ई",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-7.json"
+    },
+    {
+        "title": "रा",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-8.json"
+    },
+    {
+        "title": "रे",
+        "path": "https://cdn.jsdelivr.net/gh/Akshat7garg/Adiguru-Assets@main/scriptures/prashnavali/prashnavali-uttar-9.json"
+    }
+]

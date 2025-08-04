@@ -1,0 +1,21 @@
+{
+    "status": true,
+    "chaupai": {
+        "title": "चौपाई",
+        "content": "सुनु सिय सत्य असीस हमारी। पूजिहि मन कामना तुम्हारी॥"
+    },
+    "hindi": {
+        "heading": "प्रश्नकर्ता का प्रश्न उत्तम है, कार्य सिद्ध होगा।",
+        "meaning": {
+            "title": "अर्थ",
+            "content": "हे सीता! हमारी सच्ची आसीस सुनो, तुम्हारी मनःकामना पूरी होगी। नारद का वचन सदा पवित्र (संशय, भ्रम आदि दोषों से रहित) और सत्य है। जिसमें तुम्हारा मन अनुरक्त हो गया है, वही वर तुमको मिलेगा।"
+        }
+    },
+    "english": {
+        "heading": "The question of the questioner is good, the work will be successful.",
+        "meaning": {
+            "title": "Meaning",
+            "content": "Hey Sita! Listen to our true blessings; your wishes will be fulfilled. Narad's word is always pure (free from defects like doubt, confusion, etc.) and accurate. You will get the same boon to which your mind is attached."
+        }
+    }
+}
